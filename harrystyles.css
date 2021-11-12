@@ -1,0 +1,25 @@
+body {
+    background-color: greenyellow;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+.pipisize10 {
+    font-size: 5rem;
+}
+
+#thisisforID {
+    color: red;
+}
+
+section {
+    padding: 5rem;
+    margin-bottom: 2rem;
+}
+
